@@ -43,7 +43,7 @@ and shortcuts (see the *R Packages* book for tips and tricks).
 
 ## CI with GitHub Actions
 
-The [r-lib/actions](https://github.com/r-lib/actions) repository contains several reusable GitHub Actions
+The [r-lib/actions](https://github.com/r-lib/actions) repository contains several reusable *GitHub Actions* (GHA)
 workfklows for R projects (not only packages). The [examples](https://github.com/r-lib/actions/tree/v2/examples)
 directory provides complete workflows for common R project CI tasks. All of these can be easily set up
 using [`usethis::use_github_action()`](https://usethis.r-lib.org/reference/use_github_action.html).

@@ -19,7 +19,7 @@ of these features in VSCode as well.
 > [!NOTE]
 > A note on the use of the pipe (`|>` or `%>%`) operator, although
 >[very useful for data analysis code](https://r4ds.hadley.nz/workflow-style.html#sec-pipes), 
->we recommend to avoid their usage in **R package code**. The main reason is thath pipes make code 
+>we recommend to avoid their usage in **R package code**. The main reason is that pipes make code 
 >more difficult to debug, especially for very long sequences of pipes, as the intermediate objects
 >are not immediately accessible. In addition, the use of `%>%` would incur an additional dependency.
 

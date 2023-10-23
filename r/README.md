@@ -5,7 +5,7 @@
 In general, we recommend following the [Tidyverse style guide](https://style.tidyverse.org/) as much
 as possible. There are two R packages that support this style guide out of the box:
 
-* [*styler*](http://styler.r-lib.org/) allows to interactively style selected text, files or entire projects.
+* [*styler*](http://styler.r-lib.org/) allows interactively styling selected text, files or entire projects.
   It includes a handy RStudio plugin to make your R code beautiful with one simple keyboard shortcut
 * [*lintr*](https://github.com/jimhester/lintr) checks whether your code conforms to the style guide and flags
   potential problems. It can also be enabled in RStudio.

@@ -68,3 +68,8 @@ The [*biocthis*](https://bioconductor.org/packages/release/bioc/html/biocthis.ht
 a handy alternative to *usethis* for Bioconductor packages. Finally, there is a
 [bioc-actions](https://github.com/grimbough/bioc-actions) with Bioconductor-specific GHA workflows.
 
+The *biocthis* package provides [`biocthis::bioc_style()`](https://lcolladotor.github.io/biocthis/reference/bioc_style.html)
+to configure the *syler* package with the *Bioconductor*-specific rules.
+You can set `options(styler.addins_style_transformer = "biocthis::bioc_style()")` in your `~/.Rprofile`
+to configure these rules globally, or in a project-specific `.Rprofile`.
+

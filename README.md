@@ -1,11 +1,7 @@
 # Coding standards
 
-UCL Advanced Research Computing Centre's recommended coding standards for research software projects
+UCL Advanced Research Computing Centre's recommended coding standards for research software projects.
+These are our default assumed style choices unless there are existing project- or domain-specific local style conventions.
 
-  * [C++](cpp)
-  * [Fortran](fortran)
-  * [Java](java)
-  * [Julia](julia)
-  * [MATLAB](matlab)
   * [Python](python)
   * [R](r)

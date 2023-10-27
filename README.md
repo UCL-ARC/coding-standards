@@ -1,6 +1,7 @@
 # Coding standards
 
-These are the default coding standards for research software projects used by the Centre for Advanced Research Computing at UCL.
+These are the default coding standards for research software projects used by
+the Centre for Advanced Research Computing at UCL.
 
 They represent our default style and standard choices that our projects should
 use if there are no other constraints. If you are working with us, we'll
@@ -8,6 +9,7 @@ probably start using these standards and may point you to this page (👋).
 
 In the best case, this means that there is only one standard to learn per language.
 We hope this results in:
+  * 🛠️ a more consistent tooling and setup,
   * 😊 less time thinking about style,
   * 💪 faster onboarding of staff to new projects, and
   * 🚀 faster review of code.

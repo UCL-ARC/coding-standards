@@ -16,7 +16,6 @@ recommend sticking to the default values as much as possible.
 For VSCode users, the [vscode-R](https://code.visualstudio.com/docs/languages/r) plugin provides most
 of these features in VSCode as well.
 
-> [!NOTE]
 > A note on the use of the pipe (`|>` or `%>%`) operator, although
 >[very useful for data analysis code](https://r4ds.hadley.nz/workflow-style.html#sec-pipes), 
 >we recommend to avoid their usage in **R package code**. The main reason is that pipes make code 

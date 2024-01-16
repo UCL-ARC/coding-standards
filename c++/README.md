@@ -27,4 +27,4 @@ Our preferred build system for C++ code projects is [CMake](https://cmake.org/).
 
 ## Further reading
 
-* More pedagogical guidance can be found in the C++ course, [PHAS0100: Research Computing with C++](https://github-pages.ucl.ac.uk/research-computing-with-cpp).
+* More pedagogical guidance can be found in the C++ course, [COMP0210: Research Computing with C++](https://github-pages.ucl.ac.uk/research-computing-with-cpp).

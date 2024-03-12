@@ -34,6 +34,7 @@ effort by needlessly changing to another set of standards.
 
 ## Coding standards by language:
 
+  * [C++](c++)
   * [Python](python)
   * [R](r)
 

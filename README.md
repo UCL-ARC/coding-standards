@@ -1,14 +1,13 @@
-# Coding standards
+# UCL-ARC RSE Community Handbook
 
-These are the default coding standards for research software projects used by
-the Centre for Advanced Research Computing at UCL.
+These are the default good practices, style decisions, and standards for
+research software engineering projects used by the Centre for Advanced Research
+Computing at UCL and act as UCL-ARC RSE community's default choices, general guidelines and recommendations.
 
-They represent our default style and standard choices that our projects should
-use if there are no other constraints. If you are working with us, we'll
-probably start using these standards and may point you to this page (👋).
+We encourage that our projects follow these recommendations if there are no other constraints, and if you are working with us, we may have pointed you to this page (👋).
 
-In the best case, this means that there is only one standard to learn per language.
-We hope this results in:
+In the best case, this means that there is only one standard to learn per
+language. We hope this results in:
   * 🛠️ a more consistent tooling and setup,
   * 😊 less time thinking about style,
   * 💪 faster onboarding of staff to new projects, and
@@ -18,8 +17,8 @@ We acknowledge that neutral choices can be arbitrary, but good choices improve
 readability. As for the arbitrary ones, well, we take the view that we'd rather
 not expend mental energy thinking about them.
 
-Exceptions to these standards are usually along the lines of "there is already an
-established local standard". And that's _**great**_. If someone has already
+Exceptions to these standards are usually along the lines of "there is already
+an established local standard". And that's _**great**_. If someone has already
 thought about coding style then the last thing we want to do is waste that
 effort by needlessly changing to another set of standards.
 
@@ -40,4 +39,10 @@ effort by needlessly changing to another set of standards.
 
 ---
 
-The UCL-ARC coding standards guidelines by the Centre for Advanced Research Computing, UCL are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)<img style="height:22px;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
+The UCL-ARC coding standards guidelines by the Centre for Advanced Research
+Computing, UCL are licensed under [CC BY
+4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)<img
+style="height:22px;"
+src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+style="height:22px;"
+src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">

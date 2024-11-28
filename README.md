@@ -1,16 +1,15 @@
 # Research Software Good Practices and Coding Standards
 
-These are the default good practices, style decisions, and standards for
-research software engineering projects used by the Centre for Advanced Research
-Computing at UCL.
-They act as our default choices, general guidelines, and recommendations.
+These are the default good practices, style decisions, and standards for research software engineering projects used by
+the Centre for Advanced Research Computing at UCL. They act as our default choices, general guidelines, and
+recommendations.
 
-We encourage that our projects follow these recommendations if there are no other constraints, and if you are working with us, we may have pointed you to this page (👋).
+We encourage that our projects follow these recommendations if there are no other constraints, and if you are working
+with us, we may have pointed you to this page (👋).
 
 - [Project Organisation](./project_organisation/)
 - [Tooling](./tooling/)
 - [Coding Standards](./coding_standards/)
-
 
 ---
 

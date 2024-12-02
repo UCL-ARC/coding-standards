@@ -9,8 +9,11 @@ Any changes should be reviewed by a member or associate member of ARC. If the ad
 documentation, **please add the original author** as a reviewer to check that they're OK with their content being made
 public a CC-by-4.0. If something seems like it's broken, please go ahead and [open an issue]!
 
-> [!NOTE] We're open for contributions from anyone but it's the UCL ARC recommended best-practices, so ulitmately it
+<!-- prettier-ignore-start -->
+> [!NOTE]
+> We're open for contributions from anyone but it's the UCL ARC recommended best-practices, so ulitmately it
 > belongs to the software teams at ARC and we may not adopt suggestions from outside (sorry!).
+<!-- prettier-ignore-end -->
 
 ## Development workflow
 

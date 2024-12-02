@@ -1,30 +1,27 @@
 # Contributing Guide
 
 This repository is a collection of best practices and coding standards. It has been made by [research
-software engineers] at [UCL's Centre for Advanced Research Computing][UCL ARC].
-Some of it is from our internal documentation and recommendations pulled out and made public.
-The content is stored in [GitHub flavoured markdown], and is rendered as a live [webpage].
+software engineers] at [UCL's Centre for Advanced Research Computing][UCL ARC]. Some of it is from our internal
+documentation and recommendations pulled out and made public. The content is stored in [GitHub flavoured markdown], and
+is rendered as a live [webpage].
 
-Any changes should be reviewed by a member or associate member of ARC.
-If the additions are taken from ARC's internal documentation, **please add the original author** as a reviewer to check that they're OK with their content being made public a CC-by-4.0.
-If something seems like it's broken, please go ahead and [open an issue]!
+Any changes should be reviewed by a member or associate member of ARC. If the additions are taken from ARC's internal
+documentation, **please add the original author** as a reviewer to check that they're OK with their content being made
+public a CC-by-4.0. If something seems like it's broken, please go ahead and [open an issue]!
 
-> [!NOTE]
-> We're open for contributions from anyone but it's the UCL ARC recommended best-practices, so ulitmately it belongs to the software teams at ARC and we may not adopt suggestions from outside (sorry!).
+> [!NOTE] We're open for contributions from anyone but it's the UCL ARC recommended best-practices, so ulitmately it
+> belongs to the software teams at ARC and we may not adopt suggestions from outside (sorry!).
 
 ## Development workflow
 
 To contribute a change, please:
 
 1. Create a new branch (or fork if you're not in [@UCL-ARC/collaborations]).
-2. Modify an existing page, or create a new one.
-    a. Run [pre-commit] which will lint your changes.
+2. Modify an existing page, or create a new one. a. Run [pre-commit] which will lint your changes.
 3. Open a _pull request_ (PR) with changes.
-4. Ask someone who did not contribute to the PR from [@UCL-ARC/collaborations]
-   to review it.
+4. Ask someone who did not contribute to the PR from [@UCL-ARC/collaborations] to review it.
 5. If approved with no comments, then the last approving reviewer should merge the PR.
-6. If changes are requested, the PR author should address the comments, and then
-   ask for review again.
+6. If changes are requested, the PR author should address the comments, and then ask for review again.
 
 <!-- links here -->
 

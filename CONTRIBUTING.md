@@ -7,7 +7,7 @@ is rendered as a live [webpage].
 
 Any changes should be reviewed by a member or associate member of ARC. If the additions are taken from ARC's internal
 documentation, **please add the original author** as a reviewer to check that they're OK with their content being made
-public a CC-by-4.0. If something seems like it's broken, please go ahead and [open an issue]!
+public under a CC-by-4.0 license. If something seems like it's broken, please go ahead and [open an issue]!
 
 <!-- prettier-ignore-start -->
 > [!NOTE]

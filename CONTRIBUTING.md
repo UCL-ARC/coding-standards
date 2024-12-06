@@ -9,11 +9,10 @@ Any changes should be reviewed by a member or associate member of ARC. If the ad
 documentation, **please add the original author** as a reviewer to check that they're OK with their content being made
 public under a CC-by-4.0 license. If something seems like it's broken, please go ahead and [open an issue]!
 
-<!-- prettier-ignore-start -->
+<!-- prettier-ignore -->
 > [!NOTE]
 > We're open for contributions from anyone but it's the UCL ARC recommended best-practices, so ulitmately it
 > belongs to the software teams at ARC and we may not adopt suggestions from outside (sorry!).
-<!-- prettier-ignore-end -->
 
 ## Development workflow
 
@@ -28,14 +27,11 @@ To contribute a change, please:
 
 <!-- links here -->
 
-<!-- prettier-ignore-start -->
-
-[GitHub flavoured markdown]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[GitHub flavoured markdown]:
+  https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 [webpage]: http://github-pages.arc.ucl.ac.uk/coding-standards/
 [UCL ARC]: https://ucl.ac.uk/arc
 [open an issue]: https://github.com/UCL-ARC/coding-standards/issues/new/choose
 [Research software engineers]: https://society-rse.org/about/history
 [pre-commit]: https://pre-commit.com
 [@UCL-ARC/collaborations]: https://github.com/orgs/UCL-ARC/teams/collaborations
-
-<!-- prettier-ignore-end -->
